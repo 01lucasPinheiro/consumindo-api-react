@@ -5,5 +5,5 @@ Uma API para consumo de dados em tempo real sobre o criptomoedas. Este projeto p
 ## Como pesquisar
 
 Para pesquisar o preço de uma moeda tem que usar o formato ticket-nome exemplo:
-btc-bitcoin
-eth-ethereum
+* btc-bitcoin
+* eth-ethereum
